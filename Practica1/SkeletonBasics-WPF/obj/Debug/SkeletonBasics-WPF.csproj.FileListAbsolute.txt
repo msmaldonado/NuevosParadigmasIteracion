@@ -1,0 +1,86 @@
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cris\Desktop\Nuevos-Paradigmas-Iteracci-n-master (1)\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Cris\Desktop\Nuevos-Paradigmas-Iteracci-n-master (1)\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Cris\Desktop\Nuevos-Paradigmas-Iteracci-n-master (1)\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Cris\Desktop\Nuevos-Paradigmas-Iteracci-n-master (1)\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Cris\Desktop\Nuevos-Paradigmas-Iteracci-n-master (1)\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Cris\Desktop\Nuevos-Paradigmas-Iteracci-n-master (1)\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Cris\Desktop\Nuevos-Paradigmas-Iteracci-n-master (1)\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cris\Desktop\Nuevos-Paradigmas-Iteracci-n-master (1)\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cris\Desktop\Nuevos-Paradigmas-Iteracci-n-master (1)\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cris\Desktop\Nuevos-Paradigmas-Iteracci-n-master (1)\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cris\Desktop\Nuevos-Paradigmas-Iteracci-n-master (1)\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Cris\Desktop\Nuevos-Paradigmas-Iteracci-n-master (1)\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Cris\Desktop\Nuevos-Paradigmas-Iteracci-n-master (1)\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Cris\Desktop\Nuevos-Paradigmas-Iteracci-n-master (1)\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cris\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Cris\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Cris\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Cris\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Cris\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Cris\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Cris\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cris\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cris\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cris\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cris\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Cris\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Cris\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Cris\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Migue\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Migue\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Migue\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Migue\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Migue\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Migue\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Migue\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Migue\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Migue\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Migue\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Migue\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Migue\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Migue\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Migue\Desktop\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cris\Desktop\arcosa - copia (6)\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Cris\Desktop\arcosa - copia (6)\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Cris\Desktop\arcosa - copia (6) - copia\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Cris\Desktop\arcosa - copia (6) - copia\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Cris\Desktop\arcosa - copia (6) - copia\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Cris\Desktop\arcosa - copia (6) - copia\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Cris\Desktop\arcosa - copia (6) - copia\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Cris\Desktop\arcosa - copia (6) - copia\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Cris\Desktop\arcosa - copia (6) - copia\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cris\Desktop\arcosa - copia (6) - copia\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cris\Desktop\arcosa - copia (6) - copia\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cris\Desktop\arcosa - copia (6) - copia\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cris\Desktop\arcosa - copia (6) - copia\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Cris\Desktop\arcosa - copia (6) - copia\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Cris\Desktop\arcosa - copia (6) - copia\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Cris\Desktop\arcosa - copia (6) - copia\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Migue\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_CristinaMigue\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Migue\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_CristinaMigue\arcosa\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Migue\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_CristinaMigue\Practica1\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Migue\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_CristinaMigue\Practica1\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
