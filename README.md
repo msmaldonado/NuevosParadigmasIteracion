@@ -1,7 +1,7 @@
 # Nuevos Paradigmas Interacción
 
 
-## Practica 1
+## *Practica 1*
 
 Detección de un movimiento de yoga con skeletonBasics de kinet. 
 El programa constará de un movimiento incial en el que se tienen los pies 
