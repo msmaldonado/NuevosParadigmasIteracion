@@ -1,0 +1,8 @@
+# NuevosParadigmasIteracion
+
+
+## Practica 1
+
+
+
+
