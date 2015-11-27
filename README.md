@@ -13,6 +13,8 @@ articulaciones.
 Para asegurar que el movimiento se hace correctamente y no por casualidad le pedimos
 al usuario que se mantega en la posición un par de segundo(con ayuda de los frame).
 
+![Captura 1](images/posicionP1.png)
+
 
 
 
