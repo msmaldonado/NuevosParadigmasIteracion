@@ -1,9 +1,12 @@
-# Nuevos Paradigmas Interacción
+# **Prácticas 2015/ 2016**
+### Nuevos Paradigmas Interacción
 
+- Realizadas por :
+  + Cristina Zuheros Montes
+  + Miguel Sánchez Maldonado
 
 ## *Practica 1*
 ---------------
-
 Detección de un movimiento de yoga con skeletonBasics de kinet.
 El programa constará de un movimiento incial en el que se tienen los pies
 relajados y las manos levantadas. El movimiento final será con las manos levantadas
