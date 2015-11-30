@@ -3,7 +3,7 @@
 
 - Realizadas por :
   + Cristina Zuheros Montes
-  + Miguel Sánchez Maldonado
+  + Miguel Sánchez Maldonado 
 
 ## *Practica 1*
 ---------------
