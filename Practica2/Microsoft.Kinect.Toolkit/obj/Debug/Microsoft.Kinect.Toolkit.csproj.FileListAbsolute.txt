@@ -1,0 +1,44 @@
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb

@@ -1,0 +1,34 @@
+C:\Users\Cris\Desktop\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+C:\Users\Cris\Desktop\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+C:\Users\Cris\Desktop\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cris\Desktop\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cris\Desktop\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb

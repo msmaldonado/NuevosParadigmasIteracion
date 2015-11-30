@@ -1,0 +1,188 @@
+C:\Users\Cris\Desktop\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Cris\Desktop\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Cris\Desktop\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Cris\Desktop\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Cris\Desktop\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.dll
+C:\Users\Cris\Desktop\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cris\Desktop\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Cris\Desktop\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Cris\Desktop\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cris\Desktop\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Cris\Desktop\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.xml
+C:\Users\Cris\Desktop\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cris\Desktop\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Cris\Desktop\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Cris\Desktop\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Cris\Desktop\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cris\Desktop\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Cris\Desktop\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cris\Desktop\ControlsBasics-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cris\Desktop\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Cris\Desktop\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Cris\Desktop\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cris\Desktop\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Cris\Desktop\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Cris\Desktop\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cris\Desktop\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Cris\Desktop\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.dll
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.xml
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Cris\Desktop\p2 npi\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.xml
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2 npi\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.dll
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.xml
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Cris\Desktop\p2_ultima\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cris\Desktop\p2_ultima - copia\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Cris\Desktop\p2_ultima - copia\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.xml
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Asolisi\Dropbox\LPB\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.xml
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Miguel\Dropbox\lpb\5º curso\1Cuatrimestre\Nuevos paradigmas de interaccion\Practica_CristinaMigue\p2\p2_buena\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.dll
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.xml
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Cris\Desktop\p2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
