@@ -1,6 +1,8 @@
 /**
- * Copyright 2014 Javier Moreno, Alberto Quesada
- *
+ * Copyright 2016
+ * @author Cristina Zuheros Montes
+ * @author Miguel Sánchez Maldonado
+ * @version 10.02.2016
  * This file is part of appMovimientoSonido.
  *
  * appMovimientoSonido is free software: you can redistribute it and/or modify
@@ -34,17 +36,8 @@ import android.util.Log;
 import android.widget.TextView;
 import android.widget.Toast;
 
-/**
- * Class MovementSoundActivity.
- * Controls the exectuion of the APP. Launches interface.
- *
- * @author Antonio Solis Izquierdo
- * @author Juan Antonio Velasco Gómez
- * @version 10.02.2016
- * @since 10.02.2016
- */
-public class MovementSoundActivity extends Activity implements
-		SensorEventListener {
+
+public class MovementSoundActivity extends Activity implements SensorEventListener {
 
 	private SensorManager mSensorManager;
 	private Sensor mAcceleSensor;
@@ -82,8 +75,7 @@ public class MovementSoundActivity extends Activity implements
 
 		// Get an instance of the sensor service
 		mSensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
-		mAcceleSensor = mSensorManager
-				.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
+		mAcceleSensor = mSensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
 
 		PackageManager PM = this.getPackageManager();
 		boolean accelerometer = PM
@@ -106,8 +98,7 @@ public class MovementSoundActivity extends Activity implements
 	 */
 	private void playSound() {
 		result.setText(R.string.playing_sound);
-		MediaPlayer mp1 = MediaPlayer.create(MovementSoundActivity.this,
-				R.raw.sonido);
+		MediaPlayer mp1 = MediaPlayer.create(MovementSoundActivity.this, R.raw.sonido);
 		mp1.start();
 		mp1.setOnCompletionListener(new OnCompletionListener() {
 			public void onCompletion(MediaPlayer mp) {
@@ -134,7 +125,10 @@ public class MovementSoundActivity extends Activity implements
 	@Override
 	public final void onSensorChanged(SensorEvent event) {
 		double Y = event.values[1];
-
+/*Comprobamos que el movimiento se realiza verticalmente, es decir en el eje Y y además que se realiza
+* a mas "velocidad" de 20, para obligar de esta manera a que sea un movimiento forzado y
+* no por casualidad
+* */
 		if (first) {
 			cY = Y;
 			first = false;

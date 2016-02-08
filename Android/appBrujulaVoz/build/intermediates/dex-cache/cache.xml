@@ -2,13 +2,6 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Migue\Desktop\nuestras NPI\appBrujulaVoz\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\Migue\Desktop\nuestras NPI\appBrujulaVoz\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_56f966486a6e9b10a8f164a9ba026da3f04d7e6b.jar" />
-    </item>
-    <item
         jar="C:\Users\Migue\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="23.0.2"
@@ -16,11 +9,32 @@
         <dex dex="C:\Users\Migue\Desktop\nuestras NPI\appBrujulaVoz\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_ea3e5b8458929ab136593c684eb417aed792fbdb.jar" />
     </item>
     <item
+        jar="C:\Users\Migue\Desktop\nuestras NPI\appBrujulaVoz\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Migue\Desktop\nuestras NPI\appBrujulaVoz\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_56f966486a6e9b10a8f164a9ba026da3f04d7e6b.jar" />
+    </item>
+    <item
         jar="C:\Users\Migue\Desktop\nuestras NPI\appBrujulaVoz\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
         <dex dex="C:\Users\Migue\Desktop\nuestras NPI\appBrujulaVoz\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_4bb0b538189b2709178844fc3c78787cb1cb3436.jar" />
+    </item>
+    <item
+        jar="C:\Users\Migue\Documents\GitHub\NuevosParadigmasIteracion\Android\appBrujulaVoz\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Migue\Documents\GitHub\NuevosParadigmasIteracion\Android\appBrujulaVoz\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_8ca99d16b6770b60b8dfa34a0b4b54407111ec47.jar" />
+    </item>
+    <item
+        jar="C:\Users\Migue\Documents\GitHub\NuevosParadigmasIteracion\Android\appBrujulaVoz\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Migue\Documents\GitHub\NuevosParadigmasIteracion\Android\appBrujulaVoz\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_9928dc2fcc67c70c4c507a78a523b41ef7f204bd.jar" />
     </item>
 
 </items>

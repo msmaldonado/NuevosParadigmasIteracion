@@ -1,6 +1,8 @@
 /**
- * Copyright 2014 Javier Moreno, Alberto Quesada
- *
+ * Copyright 2016
+ * @author Cristina Zuheros Montes
+ * @author Miguel Sánchez Maldonado
+ * @version 10.02.2016
  * This file is part of appMovimientoSonido.
  *
  * appMovimientoSonido is free software: you can redistribute it and/or modify
@@ -27,15 +29,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 
-/**
- * Class MainActivity.
- * Controls the execution of the APP. Launches interface.
- *
- * @author Antonio Solis Izquierdo
- * @author Juan Antonio Velasco Gómez
- * @version 10.02.2016
- * @since 10.02.2016
- */
+
 public class MainActivity extends Activity implements OnClickListener {
 
 	/**

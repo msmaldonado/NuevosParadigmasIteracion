@@ -44,13 +44,13 @@ import android.widget.TextView;
 public class VoiceRecognitionActivity extends Activity implements OnClickListener {
 
 	private static final int REQUEST_CODE = 1234;
-	private TextView card;
-	private TextView naveg;
+	private TextView card;//Texto que muestra punto cardinal con tolerancia elegiada
+	private TextView naveg;// Se nos informa de que ya podemos comenzar la navegación
 	private static final String TAG = "VoiceRecognitionActivity";
-    private String cardinal;
-	private float error;
-	private Button speakButton, navigationButton;
-
+    private String cardinal;//Almacena el valor del cardinal
+	private float tolerancia;
+	private Button speakButton; //botón para mandar por voz el punto cardinal
+	private Button navigationButton;//botón para iniciar la navegación
 	/**
 	 * Called when the activity is starting. This is where most initialization
 	 * should go: calling setContentView(int) to inflate the activity's UI,
@@ -74,7 +74,6 @@ public class VoiceRecognitionActivity extends Activity implements OnClickListene
 		setContentView(R.layout.activity_voice);
 		speakButton = (Button) findViewById(R.id.button_speak);
 		navigationButton = (Button) findViewById(R.id.button_navigation);
-
 		card = (TextView) findViewById(R.id.card);
 
 		PackageManager pm = getPackageManager();
@@ -101,7 +100,7 @@ public class VoiceRecognitionActivity extends Activity implements OnClickListene
 		else if (v.getId() == R.id.button_navigation) {
 			Intent returnIntent = new Intent();
             returnIntent.putExtra("cardinal", cardinal);
-			returnIntent.putExtra("error", error);
+			returnIntent.putExtra("tolerancia", tolerancia);
 			setResult(RESULT_OK, returnIntent);
 			finish();
 		}
@@ -143,9 +142,9 @@ public class VoiceRecognitionActivity extends Activity implements OnClickListene
 	private void checkResults(ArrayList<String> matches) {
 		checkData(matches, card);
 		speakButton.setText(getResources().getString(R.string.button_speak_again));
-		if (error != 0F) {
-			navigationButton.setEnabled(true);
-			naveg = (TextView) findViewById(R.id.naveg);
+		if (tolerancia != 0F) {
+			navigationButton.setEnabled(true);//activamos el botón de navegación
+			naveg = (TextView) findViewById(R.id.naveg);//ponemos el texto de que ya podemos realizar la navegación
 			naveg.setText("Puede comenzar navegación o indicar otro punto cardinal y su tolerancia.");
 		}
 		else
@@ -165,27 +164,28 @@ public class VoiceRecognitionActivity extends Activity implements OnClickListene
 	 * @see checkResults
 	 */
 	private void checkData(ArrayList<String> data, TextView text) {
+		/*Buscamos el punto cardinal y a continuación su toleracia. Almacenamos el cardinal y la tolerancia*/
 		float aux = search(data, "norte");
 		if (aux != 0F) {
-			error = aux;
+			tolerancia = aux;
             cardinal = "norte";
 			text.setText("Norte" + " : " + aux);
 		}
          aux = search(data, "sur");
         if (aux != 0F) {
-            error = aux;
+            tolerancia = aux;
             cardinal = "sur";
             text.setText("Sur" + " : " + aux);
         }
          aux = search(data, "este");
         if (aux != 0F) {
-            error = aux;
+            tolerancia = aux;
             cardinal = "este";
             text.setText("Este" + " : " + aux);
         }
          aux = search(data, "oeste");
         if (aux != 0F) {
-            error = aux;
+            tolerancia = aux;
             cardinal = "oeste";
             text.setText("Oeste" + " : " + aux);
         }

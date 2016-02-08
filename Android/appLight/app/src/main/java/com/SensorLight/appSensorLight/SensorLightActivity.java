@@ -1,5 +1,23 @@
-
-
+/**
+ * Copyright 2016
+ * @author Cristina Zuheros Montes
+ * @author Miguel Sánchez Maldonado
+ * @version 10.02.2016
+ * This file is part of appSensorLight.
+ *
+ * appSensorLight is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * appSensorLight is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with appSensorLight.  If not, see <http://www.gnu.org/licenses/>.
+ */
 package com.SensorLight.appSensorLight;
 
 import android.app.Activity;
@@ -19,8 +37,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 
 
-public class SensorLightActivity extends Activity implements
-		SensorEventListener {
+public class SensorLightActivity extends Activity implements SensorEventListener {
 
 	private SensorManager mSensorManager;
 	private Sensor LightSensor ;
@@ -71,9 +88,11 @@ public class SensorLightActivity extends Activity implements
 	 */
 	@Override
 	public final void onSensorChanged(SensorEvent event) {
+		//mandamos por pantalla la intensidad detectada por el sensor
 		if(event.sensor.getType() == Sensor.TYPE_LIGHT)
 			txtLight.setText("LIGHT: " + event.values[0]);
 
+		//Comprobamos en que rango se encuentra la intensidad de luz para determinar que imagen mostrar
 		if(event.values[0] < 100){
 			image.setImageDrawable(getResources().getDrawable(R.drawable.fondo));
 		}

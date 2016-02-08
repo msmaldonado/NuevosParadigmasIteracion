@@ -8,24 +8,24 @@
         "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\drawable\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation.png",
-        "source": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\drawable\\navigation.png"
-    },
-    {
         "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
         "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation.png",
+        "source": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\drawable\\navigation.png"
     },
     {
         "merged": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
         "source": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\drawable\\background.jpg"
     },
     {
-        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation.png",
-        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\drawable\\navigation.png"
-    },
-    {
         "merged": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation.png",
         "source": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\drawable\\navigation.png"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation.png",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\drawable\\navigation.png"
     },
     {
         "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation.png",
@@ -36,16 +36,28 @@
         "source": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\drawable\\navigation.png"
     },
     {
-        "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation.png",
-        "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\drawable\\navigation.png"
-    },
-    {
-        "merged": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation.png",
-        "source": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\drawable\\navigation.png"
+        "merged": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appBrujulaVoz\\app\\src\\main\\res\\drawable\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation.png",
         "source": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\drawable\\navigation.png"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation.png",
+        "source": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appBrujulaVoz\\app\\src\\main\\res\\drawable\\navigation.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation.png",
+        "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\drawable\\navigation.png"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appBrujulaVoz\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation.png",
+        "source": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\drawable\\navigation.png"
     },
     {
         "merged": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation.png",

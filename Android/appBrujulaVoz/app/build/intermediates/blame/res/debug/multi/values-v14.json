@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "outputFile": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 183
                 },
                 "from": {
-                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -39,6 +39,32 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 348
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -104,7 +130,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "outputFile": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -116,7 +142,7 @@
                     "endOffset": 183
                 },
                 "from": {
-                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -156,7 +182,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "outputFile": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -168,7 +194,7 @@
                     "endOffset": 183
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,

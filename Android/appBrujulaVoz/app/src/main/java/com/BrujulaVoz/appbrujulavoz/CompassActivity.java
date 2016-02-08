@@ -152,7 +152,9 @@ public class CompassActivity extends Activity implements SensorEventListener {
         // Start the animation
         imgCompass.startAnimation(ra);
         currentDegree = -degree;
-
+/*Comprobamos si para el cardinal guardado, estamos en una posición cuyos grados
+* estén dentro del intervalo que marca el punto cardinal con su tolerancia
+* */
         if(( cardinal.equals("norte") && (degree < tolerancia || degree > 360.0 - tolerancia )) ||
             ( cardinal.equals("sur") && degree > 180.0 - tolerancia && degree < 180.0 + tolerancia ) ||
             ( cardinal.equals("oeste") && degree > 90.0 - tolerancia && degree < 90.0 + tolerancia ) ||
