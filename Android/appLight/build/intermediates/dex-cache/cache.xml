@@ -1,33 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
+<items version="2" />
 
-    <item
-        jar="C:\Users\Migue\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="C:\Users\Migue\Documents\GitHub\NuevosParadigmasIteracion\Android\appLight\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_ea3e5b8458929ab136593c684eb417aed792fbdb.jar" />
-    </item>
-    <item
-        jar="C:\Users\Migue\Documents\GitHub\NuevosParadigmasIteracion\Android\appLight\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\Migue\Documents\GitHub\NuevosParadigmasIteracion\Android\appLight\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_6932f2d95bfd4bc5a751d09cc293e44179d639ee.jar" />
-    </item>
-    <item
-        jar="C:\Users\Migue\Documents\GitHub\NuevosParadigmasIteracion\Android\appLight\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\Migue\Documents\GitHub\NuevosParadigmasIteracion\Android\appLight\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_e2585c28b565465df5f15289db81b8d9b4ea8335.jar" />
-    </item>
-    <item
-        jar="C:\Users\Migue\Documents\GitHub\NuevosParadigmasIteracion\Android\appLight\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\Migue\Documents\GitHub\NuevosParadigmasIteracion\Android\appLight\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_9621da961625d7f4a5773f87a592d30a13dcd2a9.jar" />
-    </item>
-
-</items>

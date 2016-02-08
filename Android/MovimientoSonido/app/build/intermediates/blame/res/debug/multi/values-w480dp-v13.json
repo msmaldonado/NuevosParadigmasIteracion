@@ -1,5 +1,48 @@
 [
     {
+        "outputFile": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\values-w480dp-v13\\values-w480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-w480dp\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 61,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-w480dp\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 71,
+                        "endOffset": 185
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\values-w480dp-v13\\values-w480dp-v13.xml",
         "map": [
             {
@@ -43,49 +86,6 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\values-w480dp-v13\\values-w480dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 61,
-                    "endOffset": 112
-                },
-                "from": {
-                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-w480dp\\values.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 56,
-                        "endColumn": 61,
-                        "endOffset": 113
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 117,
-                    "endColumn": 71,
-                    "endOffset": 184
-                },
-                "from": {
-                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-w480dp\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 118,
-                        "endColumn": 71,
-                        "endOffset": 185
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\values-w480dp-v13\\values-w480dp-v13.xml",
         "map": [
             {
@@ -117,6 +117,49 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-w480dp\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 71,
+                        "endOffset": 185
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\values-w480dp-v13\\values-w480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-w480dp\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 61,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-w480dp\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

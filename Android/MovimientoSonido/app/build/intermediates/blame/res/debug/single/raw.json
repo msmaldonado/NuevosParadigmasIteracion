@@ -1,15 +1,19 @@
 [
     {
+        "merged": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sonido.mp3",
+        "source": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\MovimientoSonido\\app\\src\\main\\res\\raw\\sonido.mp3"
+    },
+    {
         "merged": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sonido.mp3",
         "source": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\MovimientoSonido\\app\\src\\main\\res\\raw\\sonido.mp3"
     },
     {
-        "merged": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sound_mp3.mp3",
-        "source": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\src\\main\\res\\raw\\sound_mp3.mp3"
-    },
-    {
         "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sound.wav",
         "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\MovimientoSonido\\app\\src\\main\\res\\raw\\sound.wav"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sound_mp3.mp3",
+        "source": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\src\\main\\res\\raw\\sound_mp3.mp3"
     },
     {
         "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sound_mp3.mp3",

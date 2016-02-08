@@ -1686,33 +1686,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.PuntoMovimientoSonido.appmovimientosonido:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.PuntoMovimientoSonido.appmovimientosonido:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.PuntoMovimientoSonido.appmovimientosonido:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.PuntoMovimientoSonido.appmovimientosonido:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.PuntoMovimientoSonido.appmovimientosonido:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.PuntoMovimientoSonido.appmovimientosonido:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.PuntoMovimientoSonido.appmovimientosonido:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.PuntoMovimientoSonido.appmovimientosonido:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.PuntoMovimientoSonido.appmovimientosonido:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.PuntoMovimientoSonido.appmovimientosonido:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.PuntoMovimientoSonido.appmovimientosonido:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.PuntoMovimientoSonido.appmovimientosonido:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.PuntoMovimientoSonido.appmovimientosonido:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.PuntoMovimientoSonido.appmovimientosonido:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.PuntoMovimientoSonido.appmovimientosonido:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.PuntoMovimientoSonido.appmovimientosonido:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.PuntoMovimientoSonido.appmovimientosonido:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.PuntoMovimientoSonido.appmovimientosonido:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.PuntoMovimientoSonido.appmovimientosonido:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.PuntoMovimientoSonido.appmovimientosonido:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.PuntoMovimientoSonido.appmovimientosonido:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.PuntoMovimientoSonido.appmovimientosonido:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.PuntoMovimientoSonido.appmovimientosonido:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.PuntoMovimientoSonido.appmovimientosonido:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.PuntoMovimientoSonido.appmovimientosonido:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.PuntoMovimientoSonido.appmovimientosonido:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.PuntoMovimientoSonido.appmovimientosonido:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.SensorLight.appSensorLight:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.SensorLight.appSensorLight:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.SensorLight.appSensorLight:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.SensorLight.appSensorLight:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.SensorLight.appSensorLight:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.SensorLight.appSensorLight:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.SensorLight.appSensorLight:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.SensorLight.appSensorLight:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.SensorLight.appSensorLight:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.SensorLight.appSensorLight:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.SensorLight.appSensorLight:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.SensorLight.appSensorLight:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.SensorLight.appSensorLight:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.SensorLight.appSensorLight:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.SensorLight.appSensorLight:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.SensorLight.appSensorLight:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.SensorLight.appSensorLight:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.SensorLight.appSensorLight:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.SensorLight.appSensorLight:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.SensorLight.appSensorLight:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.SensorLight.appSensorLight:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.SensorLight.appSensorLight:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.SensorLight.appSensorLight:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.SensorLight.appSensorLight:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.SensorLight.appSensorLight:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.SensorLight.appSensorLight:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.SensorLight.appSensorLight:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -1752,17 +1752,17 @@ containing a value of this type.
             0x7f01001a, 0x7f01001b, 0x7f010071
         };
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#background}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:background
+          @attr name com.SensorLight.appSensorLight:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1770,11 +1770,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:backgroundSplit
+          @attr name com.SensorLight.appSensorLight:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1782,11 +1782,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:backgroundStacked
+          @attr name com.SensorLight.appSensorLight:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1798,11 +1798,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:contentInsetEnd
+          @attr name com.SensorLight.appSensorLight:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1814,11 +1814,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:contentInsetLeft
+          @attr name com.SensorLight.appSensorLight:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1830,11 +1830,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:contentInsetRight
+          @attr name com.SensorLight.appSensorLight:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1846,21 +1846,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:contentInsetStart
+          @attr name com.SensorLight.appSensorLight:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:customNavigationLayout
+          @attr name com.SensorLight.appSensorLight:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1878,21 +1878,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:displayOptions
+          @attr name com.SensorLight.appSensorLight:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:divider
+          @attr name com.SensorLight.appSensorLight:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1904,11 +1904,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:elevation
+          @attr name com.SensorLight.appSensorLight:elevation
         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#height}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1920,11 +1920,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:height
+          @attr name com.SensorLight.appSensorLight:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1934,51 +1934,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:hideOnContentScroll
+          @attr name com.SensorLight.appSensorLight:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:homeAsUpIndicator
+          @attr name com.SensorLight.appSensorLight:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:homeLayout
+          @attr name com.SensorLight.appSensorLight:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:icon
+          @attr name com.SensorLight.appSensorLight:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:indeterminateProgressStyle
+          @attr name com.SensorLight.appSensorLight:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1990,21 +1990,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:itemPadding
+          @attr name com.SensorLight.appSensorLight:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:logo
+          @attr name com.SensorLight.appSensorLight:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2018,21 +2018,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:navigationMode
+          @attr name com.SensorLight.appSensorLight:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:popupTheme
+          @attr name com.SensorLight.appSensorLight:popupTheme
         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2044,21 +2044,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:progressBarPadding
+          @attr name com.SensorLight.appSensorLight:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:progressBarStyle
+          @attr name com.SensorLight.appSensorLight:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2068,21 +2068,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:subtitle
+          @attr name com.SensorLight.appSensorLight:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:subtitleTextStyle
+          @attr name com.SensorLight.appSensorLight:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#title}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2092,17 +2092,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:title
+          @attr name com.SensorLight.appSensorLight:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:titleTextStyle
+          @attr name com.SensorLight.appSensorLight:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -2154,12 +2154,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.PuntoMovimientoSonido.appmovimientosonido:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.PuntoMovimientoSonido.appmovimientosonido:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.PuntoMovimientoSonido.appmovimientosonido:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.PuntoMovimientoSonido.appmovimientosonido:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.PuntoMovimientoSonido.appmovimientosonido:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.PuntoMovimientoSonido.appmovimientosonido:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.SensorLight.appSensorLight:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.SensorLight.appSensorLight:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.SensorLight.appSensorLight:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.SensorLight.appSensorLight:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.SensorLight.appSensorLight:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.SensorLight.appSensorLight:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -2173,17 +2173,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#background}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:background
+          @attr name com.SensorLight.appSensorLight:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2191,21 +2191,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:backgroundSplit
+          @attr name com.SensorLight.appSensorLight:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:closeItemLayout
+          @attr name com.SensorLight.appSensorLight:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#height}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2217,27 +2217,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:height
+          @attr name com.SensorLight.appSensorLight:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:subtitleTextStyle
+          @attr name com.SensorLight.appSensorLight:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:titleTextStyle
+          @attr name com.SensorLight.appSensorLight:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -2246,8 +2246,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.PuntoMovimientoSonido.appmovimientosonido:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.PuntoMovimientoSonido.appmovimientosonido:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.SensorLight.appSensorLight:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.SensorLight.appSensorLight:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -2256,17 +2256,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:expandActivityOverflowButtonDrawable
+          @attr name com.SensorLight.appSensorLight:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -2276,7 +2276,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:initialActivityCount
+          @attr name com.SensorLight.appSensorLight:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a CompatTextView.
@@ -2285,7 +2285,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CompatTextView_textAllCaps com.PuntoMovimientoSonido.appmovimientosonido:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompatTextView_textAllCaps com.SensorLight.appSensorLight:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #CompatTextView_textAllCaps
          */
@@ -2293,14 +2293,14 @@ containing a value of this type.
             0x7f01001f
         };
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#textAllCaps}
           attribute's value can be found in the {@link #CompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:textAllCaps
+          @attr name com.SensorLight.appSensorLight:textAllCaps
         */
         public static final int CompatTextView_textAllCaps = 0;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -2309,14 +2309,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barSize com.PuntoMovimientoSonido.appmovimientosonido:barSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.PuntoMovimientoSonido.appmovimientosonido:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.PuntoMovimientoSonido.appmovimientosonido:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.PuntoMovimientoSonido.appmovimientosonido:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize com.PuntoMovimientoSonido.appmovimientosonido:middleBarArrowSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.PuntoMovimientoSonido.appmovimientosonido:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.PuntoMovimientoSonido.appmovimientosonido:thickness}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize com.PuntoMovimientoSonido.appmovimientosonido:topBottomBarArrowSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barSize com.SensorLight.appSensorLight:barSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.SensorLight.appSensorLight:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.SensorLight.appSensorLight:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.SensorLight.appSensorLight:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize com.SensorLight.appSensorLight:middleBarArrowSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.SensorLight.appSensorLight:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.SensorLight.appSensorLight:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize com.SensorLight.appSensorLight:topBottomBarArrowSize}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_barSize
            @see #DrawerArrowToggle_color
@@ -2332,7 +2332,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010024, 0x7f010025, 0x7f010026, 0x7f010027
         };
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#barSize}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#barSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2344,11 +2344,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:barSize
+          @attr name com.SensorLight.appSensorLight:barSize
         */
         public static final int DrawerArrowToggle_barSize = 6;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#color}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2359,11 +2359,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:color
+          @attr name com.SensorLight.appSensorLight:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2375,11 +2375,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:drawableSize
+          @attr name com.SensorLight.appSensorLight:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2391,11 +2391,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:gapBetweenBars
+          @attr name com.SensorLight.appSensorLight:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#middleBarArrowSize}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#middleBarArrowSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2407,11 +2407,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:middleBarArrowSize
+          @attr name com.SensorLight.appSensorLight:middleBarArrowSize
         */
         public static final int DrawerArrowToggle_middleBarArrowSize = 5;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2421,11 +2421,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:spinBars
+          @attr name com.SensorLight.appSensorLight:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2437,11 +2437,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:thickness
+          @attr name com.SensorLight.appSensorLight:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#topBottomBarArrowSize}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#topBottomBarArrowSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2453,7 +2453,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:topBottomBarArrowSize
+          @attr name com.SensorLight.appSensorLight:topBottomBarArrowSize
         */
         public static final int DrawerArrowToggle_topBottomBarArrowSize = 4;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -2467,10 +2467,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.PuntoMovimientoSonido.appmovimientosonido:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.PuntoMovimientoSonido.appmovimientosonido:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.PuntoMovimientoSonido.appmovimientosonido:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.PuntoMovimientoSonido.appmovimientosonido:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.SensorLight.appSensorLight:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.SensorLight.appSensorLight:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.SensorLight.appSensorLight:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.SensorLight.appSensorLight:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -2518,17 +2518,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:divider
+          @attr name com.SensorLight.appSensorLight:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -2540,11 +2540,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:dividerPadding
+          @attr name com.SensorLight.appSensorLight:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -2554,11 +2554,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:measureWithLargestChild
+          @attr name com.SensorLight.appSensorLight:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -2573,7 +2573,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:showDividers
+          @attr name com.SensorLight.appSensorLight:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -2712,9 +2712,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.PuntoMovimientoSonido.appmovimientosonido:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.PuntoMovimientoSonido.appmovimientosonido:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.PuntoMovimientoSonido.appmovimientosonido:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.SensorLight.appSensorLight:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.SensorLight.appSensorLight:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.SensorLight.appSensorLight:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -2728,7 +2728,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.PuntoMovimientoSonido.appmovimientosonido:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.SensorLight.appSensorLight:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -2756,17 +2756,17 @@ containing a value of this type.
             0x7f01002e
         };
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionLayout
+          @attr name com.SensorLight.appSensorLight:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -2776,11 +2776,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionProviderClass
+          @attr name com.SensorLight.appSensorLight:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -2790,7 +2790,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionViewClass
+          @attr name com.SensorLight.appSensorLight:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -2872,7 +2872,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -2888,7 +2888,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:showAsAction
+          @attr name com.SensorLight.appSensorLight:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -2904,7 +2904,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.PuntoMovimientoSonido.appmovimientosonido:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.SensorLight.appSensorLight:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -2962,7 +2962,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -2972,7 +2972,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:preserveIconSpacing
+          @attr name com.SensorLight.appSensorLight:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a PopupWindow.
@@ -2982,7 +2982,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.PuntoMovimientoSonido.appmovimientosonido:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.SensorLight.appSensorLight:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -2997,7 +2997,7 @@ containing a value of this type.
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -3007,7 +3007,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:overlapAnchor
+          @attr name com.SensorLight.appSensorLight:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -3016,7 +3016,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.PuntoMovimientoSonido.appmovimientosonido:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.SensorLight.appSensorLight:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -3024,7 +3024,7 @@ containing a value of this type.
             0x7f010031
         };
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -3034,7 +3034,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:state_above_anchor
+          @attr name com.SensorLight.appSensorLight:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a SearchView.
@@ -3047,17 +3047,17 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.PuntoMovimientoSonido.appmovimientosonido:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.PuntoMovimientoSonido.appmovimientosonido:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.PuntoMovimientoSonido.appmovimientosonido:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.PuntoMovimientoSonido.appmovimientosonido:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.PuntoMovimientoSonido.appmovimientosonido:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.PuntoMovimientoSonido.appmovimientosonido:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.PuntoMovimientoSonido.appmovimientosonido:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.PuntoMovimientoSonido.appmovimientosonido:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.PuntoMovimientoSonido.appmovimientosonido:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.PuntoMovimientoSonido.appmovimientosonido:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.PuntoMovimientoSonido.appmovimientosonido:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.SensorLight.appSensorLight:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.SensorLight.appSensorLight:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.SensorLight.appSensorLight:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.SensorLight.appSensorLight:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.SensorLight.appSensorLight:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.SensorLight.appSensorLight:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.SensorLight.appSensorLight:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.SensorLight.appSensorLight:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.SensorLight.appSensorLight:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.SensorLight.appSensorLight:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.SensorLight.appSensorLight:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -3106,37 +3106,37 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:closeIcon
+          @attr name com.SensorLight.appSensorLight:closeIcon
         */
         public static final int SearchView_closeIcon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:commitIcon
+          @attr name com.SensorLight.appSensorLight:commitIcon
         */
         public static final int SearchView_commitIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:goIcon
+          @attr name com.SensorLight.appSensorLight:goIcon
         */
         public static final int SearchView_goIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3146,31 +3146,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:iconifiedByDefault
+          @attr name com.SensorLight.appSensorLight:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:layout
+          @attr name com.SensorLight.appSensorLight:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:queryBackground
+          @attr name com.SensorLight.appSensorLight:queryBackground
         */
         public static final int SearchView_queryBackground = 13;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3180,47 +3180,47 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:queryHint
+          @attr name com.SensorLight.appSensorLight:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:searchIcon
+          @attr name com.SensorLight.appSensorLight:searchIcon
         */
         public static final int SearchView_searchIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:submitBackground
+          @attr name com.SensorLight.appSensorLight:submitBackground
         */
         public static final int SearchView_submitBackground = 14;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:suggestionRowLayout
+          @attr name com.SensorLight.appSensorLight:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 12;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:voiceIcon
+          @attr name com.SensorLight.appSensorLight:voiceIcon
         */
         public static final int SearchView_voiceIcon = 10;
         /** Attributes that can be used with a Spinner.
@@ -3236,10 +3236,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled com.PuntoMovimientoSonido.appmovimientosonido:disableChildrenWhenDisabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupPromptView com.PuntoMovimientoSonido.appmovimientosonido:popupPromptView}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_prompt com.PuntoMovimientoSonido.appmovimientosonido:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spinnerMode com.PuntoMovimientoSonido.appmovimientosonido:spinnerMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled com.SensorLight.appSensorLight:disableChildrenWhenDisabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupPromptView com.SensorLight.appSensorLight:popupPromptView}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_prompt com.SensorLight.appSensorLight:prompt}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spinnerMode com.SensorLight.appSensorLight:spinnerMode}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_background
            @see #Spinner_android_dropDownHorizontalOffset
@@ -3301,7 +3301,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Spinner_android_popupBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#disableChildrenWhenDisabled}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#disableChildrenWhenDisabled}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -3311,31 +3311,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:disableChildrenWhenDisabled
+          @attr name com.SensorLight.appSensorLight:disableChildrenWhenDisabled
         */
         public static final int Spinner_disableChildrenWhenDisabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#popupPromptView}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#popupPromptView}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:popupPromptView
+          @attr name com.SensorLight.appSensorLight:popupPromptView
         */
         public static final int Spinner_popupPromptView = 9;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#prompt}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#prompt}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:prompt
+          @attr name com.SensorLight.appSensorLight:prompt
         */
         public static final int Spinner_prompt = 7;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#spinnerMode}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#spinnerMode}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -3348,7 +3348,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>dialog</code></td><td>0</td><td></td></tr>
 <tr><td><code>dropdown</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:spinnerMode
+          @attr name com.SensorLight.appSensorLight:spinnerMode
         */
         public static final int Spinner_spinnerMode = 8;
         /** Attributes that can be used with a SwitchCompat.
@@ -3360,13 +3360,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.PuntoMovimientoSonido.appmovimientosonido:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.PuntoMovimientoSonido.appmovimientosonido:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.PuntoMovimientoSonido.appmovimientosonido:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.PuntoMovimientoSonido.appmovimientosonido:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.PuntoMovimientoSonido.appmovimientosonido:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.PuntoMovimientoSonido.appmovimientosonido:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.PuntoMovimientoSonido.appmovimientosonido:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.SensorLight.appSensorLight:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.SensorLight.appSensorLight:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.SensorLight.appSensorLight:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.SensorLight.appSensorLight:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.SensorLight.appSensorLight:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.SensorLight.appSensorLight:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.SensorLight.appSensorLight:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -3403,7 +3403,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3413,11 +3413,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:showText
+          @attr name com.SensorLight.appSensorLight:showText
         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3427,11 +3427,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:splitTrack
+          @attr name com.SensorLight.appSensorLight:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3443,11 +3443,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:switchMinWidth
+          @attr name com.SensorLight.appSensorLight:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3459,21 +3459,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:switchPadding
+          @attr name com.SensorLight.appSensorLight:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:switchTextAppearance
+          @attr name com.SensorLight.appSensorLight:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3485,17 +3485,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:thumbTextPadding
+          @attr name com.SensorLight.appSensorLight:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#track}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:track
+          @attr name com.SensorLight.appSensorLight:track
         */
         public static final int SwitchCompat_track = 3;
         /** Attributes that can be used with a Theme.
@@ -3504,89 +3504,89 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider com.PuntoMovimientoSonido.appmovimientosonido:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground com.PuntoMovimientoSonido.appmovimientosonido:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme com.PuntoMovimientoSonido.appmovimientosonido:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize com.PuntoMovimientoSonido.appmovimientosonido:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle com.PuntoMovimientoSonido.appmovimientosonido:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle com.PuntoMovimientoSonido.appmovimientosonido:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.PuntoMovimientoSonido.appmovimientosonido:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle com.PuntoMovimientoSonido.appmovimientosonido:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.PuntoMovimientoSonido.appmovimientosonido:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme com.PuntoMovimientoSonido.appmovimientosonido:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.PuntoMovimientoSonido.appmovimientosonido:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle com.PuntoMovimientoSonido.appmovimientosonido:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.PuntoMovimientoSonido.appmovimientosonido:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.PuntoMovimientoSonido.appmovimientosonido:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor com.PuntoMovimientoSonido.appmovimientosonido:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground com.PuntoMovimientoSonido.appmovimientosonido:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.PuntoMovimientoSonido.appmovimientosonido:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.PuntoMovimientoSonido.appmovimientosonido:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.PuntoMovimientoSonido.appmovimientosonido:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable com.PuntoMovimientoSonido.appmovimientosonido:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable com.PuntoMovimientoSonido.appmovimientosonido:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable com.PuntoMovimientoSonido.appmovimientosonido:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.PuntoMovimientoSonido.appmovimientosonido:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.PuntoMovimientoSonido.appmovimientosonido:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable com.PuntoMovimientoSonido.appmovimientosonido:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground com.PuntoMovimientoSonido.appmovimientosonido:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle com.PuntoMovimientoSonido.appmovimientosonido:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.PuntoMovimientoSonido.appmovimientosonido:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.PuntoMovimientoSonido.appmovimientosonido:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.PuntoMovimientoSonido.appmovimientosonido:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle com.PuntoMovimientoSonido.appmovimientosonido:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider com.SensorLight.appSensorLight:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground com.SensorLight.appSensorLight:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme com.SensorLight.appSensorLight:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize com.SensorLight.appSensorLight:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle com.SensorLight.appSensorLight:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle com.SensorLight.appSensorLight:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.SensorLight.appSensorLight:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle com.SensorLight.appSensorLight:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.SensorLight.appSensorLight:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme com.SensorLight.appSensorLight:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.SensorLight.appSensorLight:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle com.SensorLight.appSensorLight:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle com.SensorLight.appSensorLight:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.SensorLight.appSensorLight:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor com.SensorLight.appSensorLight:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground com.SensorLight.appSensorLight:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.SensorLight.appSensorLight:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.SensorLight.appSensorLight:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.SensorLight.appSensorLight:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable com.SensorLight.appSensorLight:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable com.SensorLight.appSensorLight:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable com.SensorLight.appSensorLight:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.SensorLight.appSensorLight:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.SensorLight.appSensorLight:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable com.SensorLight.appSensorLight:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground com.SensorLight.appSensorLight:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle com.SensorLight.appSensorLight:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.SensorLight.appSensorLight:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.SensorLight.appSensorLight:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.SensorLight.appSensorLight:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle com.SensorLight.appSensorLight:activityChooserViewStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.PuntoMovimientoSonido.appmovimientosonido:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle com.PuntoMovimientoSonido.appmovimientosonido:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent com.PuntoMovimientoSonido.appmovimientosonido:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal com.PuntoMovimientoSonido.appmovimientosonido:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated com.PuntoMovimientoSonido.appmovimientosonido:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight com.PuntoMovimientoSonido.appmovimientosonido:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal com.PuntoMovimientoSonido.appmovimientosonido:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary com.PuntoMovimientoSonido.appmovimientosonido:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark com.PuntoMovimientoSonido.appmovimientosonido:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.PuntoMovimientoSonido.appmovimientosonido:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal com.PuntoMovimientoSonido.appmovimientosonido:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical com.PuntoMovimientoSonido.appmovimientosonido:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle com.PuntoMovimientoSonido.appmovimientosonido:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.PuntoMovimientoSonido.appmovimientosonido:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground com.PuntoMovimientoSonido.appmovimientosonido:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor com.PuntoMovimientoSonido.appmovimientosonido:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator com.PuntoMovimientoSonido.appmovimientosonido:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.PuntoMovimientoSonido.appmovimientosonido:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle com.PuntoMovimientoSonido.appmovimientosonido:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight com.PuntoMovimientoSonido.appmovimientosonido:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.PuntoMovimientoSonido.appmovimientosonido:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.PuntoMovimientoSonido.appmovimientosonido:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.PuntoMovimientoSonido.appmovimientosonido:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.PuntoMovimientoSonido.appmovimientosonido:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground com.PuntoMovimientoSonido.appmovimientosonido:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.PuntoMovimientoSonido.appmovimientosonido:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.PuntoMovimientoSonido.appmovimientosonido:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.PuntoMovimientoSonido.appmovimientosonido:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle com.PuntoMovimientoSonido.appmovimientosonido:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle com.PuntoMovimientoSonido.appmovimientosonido:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground com.PuntoMovimientoSonido.appmovimientosonido:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.PuntoMovimientoSonido.appmovimientosonido:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.PuntoMovimientoSonido.appmovimientosonido:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle com.PuntoMovimientoSonido.appmovimientosonido:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle com.PuntoMovimientoSonido.appmovimientosonido:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.PuntoMovimientoSonido.appmovimientosonido:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem com.PuntoMovimientoSonido.appmovimientosonido:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.PuntoMovimientoSonido.appmovimientosonido:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.PuntoMovimientoSonido.appmovimientosonido:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.PuntoMovimientoSonido.appmovimientosonido:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.PuntoMovimientoSonido.appmovimientosonido:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl com.PuntoMovimientoSonido.appmovimientosonido:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.PuntoMovimientoSonido.appmovimientosonido:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle com.PuntoMovimientoSonido.appmovimientosonido:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar com.PuntoMovimientoSonido.appmovimientosonido:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay com.PuntoMovimientoSonido.appmovimientosonido:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay com.PuntoMovimientoSonido.appmovimientosonido:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.PuntoMovimientoSonido.appmovimientosonido:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.PuntoMovimientoSonido.appmovimientosonido:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.PuntoMovimientoSonido.appmovimientosonido:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.PuntoMovimientoSonido.appmovimientosonido:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.SensorLight.appSensorLight:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle com.SensorLight.appSensorLight:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent com.SensorLight.appSensorLight:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal com.SensorLight.appSensorLight:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated com.SensorLight.appSensorLight:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight com.SensorLight.appSensorLight:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal com.SensorLight.appSensorLight:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary com.SensorLight.appSensorLight:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark com.SensorLight.appSensorLight:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.SensorLight.appSensorLight:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal com.SensorLight.appSensorLight:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical com.SensorLight.appSensorLight:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle com.SensorLight.appSensorLight:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.SensorLight.appSensorLight:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground com.SensorLight.appSensorLight:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor com.SensorLight.appSensorLight:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator com.SensorLight.appSensorLight:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.SensorLight.appSensorLight:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle com.SensorLight.appSensorLight:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight com.SensorLight.appSensorLight:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.SensorLight.appSensorLight:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.SensorLight.appSensorLight:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.SensorLight.appSensorLight:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.SensorLight.appSensorLight:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground com.SensorLight.appSensorLight:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme com.SensorLight.appSensorLight:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth com.SensorLight.appSensorLight:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle com.SensorLight.appSensorLight:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle com.SensorLight.appSensorLight:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle com.SensorLight.appSensorLight:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground com.SensorLight.appSensorLight:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.SensorLight.appSensorLight:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.SensorLight.appSensorLight:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle com.SensorLight.appSensorLight:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle com.SensorLight.appSensorLight:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.SensorLight.appSensorLight:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem com.SensorLight.appSensorLight:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.SensorLight.appSensorLight:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.SensorLight.appSensorLight:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.SensorLight.appSensorLight:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.SensorLight.appSensorLight:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl com.SensorLight.appSensorLight:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.SensorLight.appSensorLight:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle com.SensorLight.appSensorLight:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar com.SensorLight.appSensorLight:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay com.SensorLight.appSensorLight:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay com.SensorLight.appSensorLight:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.SensorLight.appSensorLight:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.SensorLight.appSensorLight:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.SensorLight.appSensorLight:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.SensorLight.appSensorLight:windowFixedWidthMinor}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -3696,37 +3696,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010097, 0x7f010098, 0x7f010099
         };
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionBarDivider
+          @attr name com.SensorLight.appSensorLight:actionBarDivider
         */
         public static final int Theme_actionBarDivider = 19;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionBarItemBackground
+          @attr name com.SensorLight.appSensorLight:actionBarItemBackground
         */
         public static final int Theme_actionBarItemBackground = 20;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionBarPopupTheme
+          @attr name com.SensorLight.appSensorLight:actionBarPopupTheme
         */
         public static final int Theme_actionBarPopupTheme = 13;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -3746,111 +3746,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionBarSize
+          @attr name com.SensorLight.appSensorLight:actionBarSize
         */
         public static final int Theme_actionBarSize = 18;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionBarSplitStyle
+          @attr name com.SensorLight.appSensorLight:actionBarSplitStyle
         */
         public static final int Theme_actionBarSplitStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionBarStyle
+          @attr name com.SensorLight.appSensorLight:actionBarStyle
         */
         public static final int Theme_actionBarStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionBarTabBarStyle
+          @attr name com.SensorLight.appSensorLight:actionBarTabBarStyle
         */
         public static final int Theme_actionBarTabBarStyle = 9;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionBarTabStyle
+          @attr name com.SensorLight.appSensorLight:actionBarTabStyle
         */
         public static final int Theme_actionBarTabStyle = 8;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionBarTabTextStyle
+          @attr name com.SensorLight.appSensorLight:actionBarTabTextStyle
         */
         public static final int Theme_actionBarTabTextStyle = 10;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionBarTheme
+          @attr name com.SensorLight.appSensorLight:actionBarTheme
         */
         public static final int Theme_actionBarTheme = 16;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionBarWidgetTheme
+          @attr name com.SensorLight.appSensorLight:actionBarWidgetTheme
         */
         public static final int Theme_actionBarWidgetTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionButtonStyle
+          @attr name com.SensorLight.appSensorLight:actionButtonStyle
         */
         public static final int Theme_actionButtonStyle = 43;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionDropDownStyle
+          @attr name com.SensorLight.appSensorLight:actionDropDownStyle
         */
         public static final int Theme_actionDropDownStyle = 38;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionMenuTextAppearance
+          @attr name com.SensorLight.appSensorLight:actionMenuTextAppearance
         */
         public static final int Theme_actionMenuTextAppearance = 21;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -3858,167 +3858,167 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionMenuTextColor
+          @attr name com.SensorLight.appSensorLight:actionMenuTextColor
         */
         public static final int Theme_actionMenuTextColor = 22;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionModeBackground
+          @attr name com.SensorLight.appSensorLight:actionModeBackground
         */
         public static final int Theme_actionModeBackground = 25;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionModeCloseButtonStyle
+          @attr name com.SensorLight.appSensorLight:actionModeCloseButtonStyle
         */
         public static final int Theme_actionModeCloseButtonStyle = 24;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionModeCloseDrawable
+          @attr name com.SensorLight.appSensorLight:actionModeCloseDrawable
         */
         public static final int Theme_actionModeCloseDrawable = 27;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionModeCopyDrawable
+          @attr name com.SensorLight.appSensorLight:actionModeCopyDrawable
         */
         public static final int Theme_actionModeCopyDrawable = 29;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionModeCutDrawable
+          @attr name com.SensorLight.appSensorLight:actionModeCutDrawable
         */
         public static final int Theme_actionModeCutDrawable = 28;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionModeFindDrawable
+          @attr name com.SensorLight.appSensorLight:actionModeFindDrawable
         */
         public static final int Theme_actionModeFindDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionModePasteDrawable
+          @attr name com.SensorLight.appSensorLight:actionModePasteDrawable
         */
         public static final int Theme_actionModePasteDrawable = 30;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionModePopupWindowStyle
+          @attr name com.SensorLight.appSensorLight:actionModePopupWindowStyle
         */
         public static final int Theme_actionModePopupWindowStyle = 35;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionModeSelectAllDrawable
+          @attr name com.SensorLight.appSensorLight:actionModeSelectAllDrawable
         */
         public static final int Theme_actionModeSelectAllDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionModeShareDrawable
+          @attr name com.SensorLight.appSensorLight:actionModeShareDrawable
         */
         public static final int Theme_actionModeShareDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionModeSplitBackground
+          @attr name com.SensorLight.appSensorLight:actionModeSplitBackground
         */
         public static final int Theme_actionModeSplitBackground = 26;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionModeStyle
+          @attr name com.SensorLight.appSensorLight:actionModeStyle
         */
         public static final int Theme_actionModeStyle = 23;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionModeWebSearchDrawable
+          @attr name com.SensorLight.appSensorLight:actionModeWebSearchDrawable
         */
         public static final int Theme_actionModeWebSearchDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionOverflowButtonStyle
+          @attr name com.SensorLight.appSensorLight:actionOverflowButtonStyle
         */
         public static final int Theme_actionOverflowButtonStyle = 11;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:actionOverflowMenuStyle
+          @attr name com.SensorLight.appSensorLight:actionOverflowMenuStyle
         */
         public static final int Theme_actionOverflowMenuStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:activityChooserViewStyle
+          @attr name com.SensorLight.appSensorLight:activityChooserViewStyle
         */
         public static final int Theme_activityChooserViewStyle = 50;
         /**
@@ -4028,27 +4028,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:buttonBarButtonStyle
+          @attr name com.SensorLight.appSensorLight:buttonBarButtonStyle
         */
         public static final int Theme_buttonBarButtonStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:buttonBarStyle
+          @attr name com.SensorLight.appSensorLight:buttonBarStyle
         */
         public static final int Theme_buttonBarStyle = 44;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4059,11 +4059,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:colorAccent
+          @attr name com.SensorLight.appSensorLight:colorAccent
         */
         public static final int Theme_colorAccent = 77;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4074,11 +4074,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:colorButtonNormal
+          @attr name com.SensorLight.appSensorLight:colorButtonNormal
         */
         public static final int Theme_colorButtonNormal = 81;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4089,11 +4089,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:colorControlActivated
+          @attr name com.SensorLight.appSensorLight:colorControlActivated
         */
         public static final int Theme_colorControlActivated = 79;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4104,11 +4104,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:colorControlHighlight
+          @attr name com.SensorLight.appSensorLight:colorControlHighlight
         */
         public static final int Theme_colorControlHighlight = 80;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4119,11 +4119,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:colorControlNormal
+          @attr name com.SensorLight.appSensorLight:colorControlNormal
         */
         public static final int Theme_colorControlNormal = 78;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4134,11 +4134,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:colorPrimary
+          @attr name com.SensorLight.appSensorLight:colorPrimary
         */
         public static final int Theme_colorPrimary = 75;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4149,11 +4149,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:colorPrimaryDark
+          @attr name com.SensorLight.appSensorLight:colorPrimaryDark
         */
         public static final int Theme_colorPrimaryDark = 76;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4164,41 +4164,41 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:colorSwitchThumbNormal
+          @attr name com.SensorLight.appSensorLight:colorSwitchThumbNormal
         */
         public static final int Theme_colorSwitchThumbNormal = 82;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:dividerHorizontal
+          @attr name com.SensorLight.appSensorLight:dividerHorizontal
         */
         public static final int Theme_dividerHorizontal = 49;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:dividerVertical
+          @attr name com.SensorLight.appSensorLight:dividerVertical
         */
         public static final int Theme_dividerVertical = 48;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:dropDownListViewStyle
+          @attr name com.SensorLight.appSensorLight:dropDownListViewStyle
         */
         public static final int Theme_dropDownListViewStyle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4210,21 +4210,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:dropdownListPreferredItemHeight
+          @attr name com.SensorLight.appSensorLight:dropdownListPreferredItemHeight
         */
         public static final int Theme_dropdownListPreferredItemHeight = 39;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:editTextBackground
+          @attr name com.SensorLight.appSensorLight:editTextBackground
         */
         public static final int Theme_editTextBackground = 56;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4232,41 +4232,41 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:editTextColor
+          @attr name com.SensorLight.appSensorLight:editTextColor
         */
         public static final int Theme_editTextColor = 55;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:homeAsUpIndicator
+          @attr name com.SensorLight.appSensorLight:homeAsUpIndicator
         */
         public static final int Theme_homeAsUpIndicator = 42;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:listChoiceBackgroundIndicator
+          @attr name com.SensorLight.appSensorLight:listChoiceBackgroundIndicator
         */
         public static final int Theme_listChoiceBackgroundIndicator = 74;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:listPopupWindowStyle
+          @attr name com.SensorLight.appSensorLight:listPopupWindowStyle
         */
         public static final int Theme_listPopupWindowStyle = 68;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4278,11 +4278,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:listPreferredItemHeight
+          @attr name com.SensorLight.appSensorLight:listPreferredItemHeight
         */
         public static final int Theme_listPreferredItemHeight = 62;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4294,11 +4294,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:listPreferredItemHeightLarge
+          @attr name com.SensorLight.appSensorLight:listPreferredItemHeightLarge
         */
         public static final int Theme_listPreferredItemHeightLarge = 64;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4310,11 +4310,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:listPreferredItemHeightSmall
+          @attr name com.SensorLight.appSensorLight:listPreferredItemHeightSmall
         */
         public static final int Theme_listPreferredItemHeightSmall = 63;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4326,11 +4326,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:listPreferredItemPaddingLeft
+          @attr name com.SensorLight.appSensorLight:listPreferredItemPaddingLeft
         */
         public static final int Theme_listPreferredItemPaddingLeft = 65;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4342,31 +4342,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:listPreferredItemPaddingRight
+          @attr name com.SensorLight.appSensorLight:listPreferredItemPaddingRight
         */
         public static final int Theme_listPreferredItemPaddingRight = 66;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:panelBackground
+          @attr name com.SensorLight.appSensorLight:panelBackground
         */
         public static final int Theme_panelBackground = 71;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:panelMenuListTheme
+          @attr name com.SensorLight.appSensorLight:panelMenuListTheme
         */
         public static final int Theme_panelMenuListTheme = 73;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4378,151 +4378,151 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:panelMenuListWidth
+          @attr name com.SensorLight.appSensorLight:panelMenuListWidth
         */
         public static final int Theme_panelMenuListWidth = 72;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:popupMenuStyle
+          @attr name com.SensorLight.appSensorLight:popupMenuStyle
         */
         public static final int Theme_popupMenuStyle = 53;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:popupWindowStyle
+          @attr name com.SensorLight.appSensorLight:popupWindowStyle
         */
         public static final int Theme_popupWindowStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:searchViewStyle
+          @attr name com.SensorLight.appSensorLight:searchViewStyle
         */
         public static final int Theme_searchViewStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:selectableItemBackground
+          @attr name com.SensorLight.appSensorLight:selectableItemBackground
         */
         public static final int Theme_selectableItemBackground = 46;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:selectableItemBackgroundBorderless
+          @attr name com.SensorLight.appSensorLight:selectableItemBackgroundBorderless
         */
         public static final int Theme_selectableItemBackgroundBorderless = 47;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:spinnerDropDownItemStyle
+          @attr name com.SensorLight.appSensorLight:spinnerDropDownItemStyle
         */
         public static final int Theme_spinnerDropDownItemStyle = 41;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:spinnerStyle
+          @attr name com.SensorLight.appSensorLight:spinnerStyle
         */
         public static final int Theme_spinnerStyle = 40;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:switchStyle
+          @attr name com.SensorLight.appSensorLight:switchStyle
         */
         public static final int Theme_switchStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:textAppearanceLargePopupMenu
+          @attr name com.SensorLight.appSensorLight:textAppearanceLargePopupMenu
         */
         public static final int Theme_textAppearanceLargePopupMenu = 36;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:textAppearanceListItem
+          @attr name com.SensorLight.appSensorLight:textAppearanceListItem
         */
         public static final int Theme_textAppearanceListItem = 69;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:textAppearanceListItemSmall
+          @attr name com.SensorLight.appSensorLight:textAppearanceListItemSmall
         */
         public static final int Theme_textAppearanceListItemSmall = 70;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:textAppearanceSearchResultSubtitle
+          @attr name com.SensorLight.appSensorLight:textAppearanceSearchResultSubtitle
         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:textAppearanceSearchResultTitle
+          @attr name com.SensorLight.appSensorLight:textAppearanceSearchResultTitle
         */
         public static final int Theme_textAppearanceSearchResultTitle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:textAppearanceSmallPopupMenu
+          @attr name com.SensorLight.appSensorLight:textAppearanceSmallPopupMenu
         */
         public static final int Theme_textAppearanceSmallPopupMenu = 37;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4530,31 +4530,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:textColorSearchUrl
+          @attr name com.SensorLight.appSensorLight:textColorSearchUrl
         */
         public static final int Theme_textColorSearchUrl = 60;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:toolbarNavigationButtonStyle
+          @attr name com.SensorLight.appSensorLight:toolbarNavigationButtonStyle
         */
         public static final int Theme_toolbarNavigationButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:toolbarStyle
+          @attr name com.SensorLight.appSensorLight:toolbarStyle
         */
         public static final int Theme_toolbarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4564,11 +4564,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:windowActionBar
+          @attr name com.SensorLight.appSensorLight:windowActionBar
         */
         public static final int Theme_windowActionBar = 1;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4578,11 +4578,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:windowActionBarOverlay
+          @attr name com.SensorLight.appSensorLight:windowActionBarOverlay
         */
         public static final int Theme_windowActionBarOverlay = 2;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4592,11 +4592,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:windowActionModeOverlay
+          @attr name com.SensorLight.appSensorLight:windowActionModeOverlay
         */
         public static final int Theme_windowActionModeOverlay = 3;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4611,11 +4611,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:windowFixedHeightMajor
+          @attr name com.SensorLight.appSensorLight:windowFixedHeightMajor
         */
         public static final int Theme_windowFixedHeightMajor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4630,11 +4630,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:windowFixedHeightMinor
+          @attr name com.SensorLight.appSensorLight:windowFixedHeightMinor
         */
         public static final int Theme_windowFixedHeightMinor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4649,11 +4649,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:windowFixedWidthMajor
+          @attr name com.SensorLight.appSensorLight:windowFixedWidthMajor
         */
         public static final int Theme_windowFixedWidthMajor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4668,7 +4668,7 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:windowFixedWidthMinor
+          @attr name com.SensorLight.appSensorLight:windowFixedWidthMinor
         */
         public static final int Theme_windowFixedWidthMinor = 6;
         /** Attributes that can be used with a Toolbar.
@@ -4679,26 +4679,26 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.PuntoMovimientoSonido.appmovimientosonido:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.PuntoMovimientoSonido.appmovimientosonido:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.PuntoMovimientoSonido.appmovimientosonido:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.PuntoMovimientoSonido.appmovimientosonido:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.PuntoMovimientoSonido.appmovimientosonido:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.PuntoMovimientoSonido.appmovimientosonido:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.PuntoMovimientoSonido.appmovimientosonido:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.PuntoMovimientoSonido.appmovimientosonido:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.PuntoMovimientoSonido.appmovimientosonido:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.PuntoMovimientoSonido.appmovimientosonido:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.PuntoMovimientoSonido.appmovimientosonido:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.PuntoMovimientoSonido.appmovimientosonido:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_theme com.PuntoMovimientoSonido.appmovimientosonido:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.PuntoMovimientoSonido.appmovimientosonido:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.PuntoMovimientoSonido.appmovimientosonido:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.PuntoMovimientoSonido.appmovimientosonido:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.PuntoMovimientoSonido.appmovimientosonido:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.PuntoMovimientoSonido.appmovimientosonido:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.PuntoMovimientoSonido.appmovimientosonido:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.PuntoMovimientoSonido.appmovimientosonido:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.SensorLight.appSensorLight:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.SensorLight.appSensorLight:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.SensorLight.appSensorLight:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.SensorLight.appSensorLight:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.SensorLight.appSensorLight:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.SensorLight.appSensorLight:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.SensorLight.appSensorLight:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.SensorLight.appSensorLight:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.SensorLight.appSensorLight:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.SensorLight.appSensorLight:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.SensorLight.appSensorLight:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.SensorLight.appSensorLight:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_theme com.SensorLight.appSensorLight:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.SensorLight.appSensorLight:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.SensorLight.appSensorLight:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.SensorLight.appSensorLight:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.SensorLight.appSensorLight:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.SensorLight.appSensorLight:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.SensorLight.appSensorLight:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.SensorLight.appSensorLight:titleTextAppearance}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -4744,7 +4744,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4754,21 +4754,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:collapseContentDescription
+          @attr name com.SensorLight.appSensorLight:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:collapseIcon
+          @attr name com.SensorLight.appSensorLight:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4780,11 +4780,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:contentInsetEnd
+          @attr name com.SensorLight.appSensorLight:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 5;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4796,11 +4796,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:contentInsetLeft
+          @attr name com.SensorLight.appSensorLight:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 6;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4812,11 +4812,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:contentInsetRight
+          @attr name com.SensorLight.appSensorLight:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 7;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4828,11 +4828,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:contentInsetStart
+          @attr name com.SensorLight.appSensorLight:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 4;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4844,11 +4844,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:maxButtonHeight
+          @attr name com.SensorLight.appSensorLight:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 16;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4858,31 +4858,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:navigationContentDescription
+          @attr name com.SensorLight.appSensorLight:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:navigationIcon
+          @attr name com.SensorLight.appSensorLight:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:popupTheme
+          @attr name com.SensorLight.appSensorLight:popupTheme
         */
         public static final int Toolbar_popupTheme = 8;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4892,31 +4892,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:subtitle
+          @attr name com.SensorLight.appSensorLight:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:subtitleTextAppearance
+          @attr name com.SensorLight.appSensorLight:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#theme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:theme
+          @attr name com.SensorLight.appSensorLight:theme
         */
         public static final int Toolbar_theme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#title}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4926,11 +4926,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:title
+          @attr name com.SensorLight.appSensorLight:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4942,11 +4942,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:titleMarginBottom
+          @attr name com.SensorLight.appSensorLight:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 15;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4958,11 +4958,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:titleMarginEnd
+          @attr name com.SensorLight.appSensorLight:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4974,11 +4974,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:titleMarginStart
+          @attr name com.SensorLight.appSensorLight:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 12;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4990,11 +4990,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:titleMarginTop
+          @attr name com.SensorLight.appSensorLight:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 14;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5006,17 +5006,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:titleMargins
+          @attr name com.SensorLight.appSensorLight:titleMargins
         */
         public static final int Toolbar_titleMargins = 11;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:titleTextAppearance
+          @attr name com.SensorLight.appSensorLight:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 9;
         /** Attributes that can be used with a View.
@@ -5026,8 +5026,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.PuntoMovimientoSonido.appmovimientosonido:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.PuntoMovimientoSonido.appmovimientosonido:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.SensorLight.appSensorLight:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.SensorLight.appSensorLight:paddingStart}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_paddingEnd
@@ -5043,7 +5043,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int View_android_focusable = 0;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -5055,11 +5055,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:paddingEnd
+          @attr name com.SensorLight.appSensorLight:paddingEnd
         */
         public static final int View_paddingEnd = 2;
         /**
-          <p>This symbol is the offset where the {@link com.PuntoMovimientoSonido.appmovimientosonido.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.SensorLight.appSensorLight.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -5071,7 +5071,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.PuntoMovimientoSonido.appmovimientosonido:paddingStart
+          @attr name com.SensorLight.appSensorLight:paddingStart
         */
         public static final int View_paddingStart = 1;
         /** Attributes that can be used with a ViewStubCompat.
