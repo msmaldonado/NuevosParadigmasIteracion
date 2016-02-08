@@ -1,295 +1,5 @@
 [
     {
-        "outputFile": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 110,
-                    "endOffset": 161
-                },
-                "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 56,
-                        "endColumn": 110,
-                        "endOffset": 162
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 166,
-                    "endColumn": 107,
-                    "endOffset": 269
-                },
-                "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 167,
-                        "endColumn": 107,
-                        "endOffset": 270
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 274,
-                    "endColumn": 122,
-                    "endOffset": 392
-                },
-                "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 275,
-                        "endColumn": 122,
-                        "endOffset": 393
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 397,
-                    "endColumn": 114,
-                    "endOffset": 507
-                },
-                "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 398,
-                        "endColumn": 114,
-                        "endOffset": 508
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 512,
-                    "endColumn": 110,
-                    "endOffset": 618
-                },
-                "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 513,
-                        "endColumn": 110,
-                        "endOffset": 619
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 623,
-                    "endColumn": 86,
-                    "endOffset": 705
-                },
-                "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 624,
-                        "endColumn": 86,
-                        "endOffset": 706
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 710,
-                    "endColumn": 115,
-                    "endOffset": 821
-                },
-                "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 711,
-                        "endColumn": 115,
-                        "endOffset": 822
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 826,
-                    "endColumn": 129,
-                    "endOffset": 951
-                },
-                "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 827,
-                        "endColumn": 129,
-                        "endOffset": 952
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 956,
-                    "endColumn": 109,
-                    "endOffset": 1061
-                },
-                "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 957,
-                        "endColumn": 109,
-                        "endOffset": 1062
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1066,
-                    "endColumn": 111,
-                    "endOffset": 1173
-                },
-                "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1067,
-                        "endColumn": 111,
-                        "endOffset": 1174
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1178,
-                    "endColumn": 102,
-                    "endOffset": 1276
-                },
-                "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1179,
-                        "endColumn": 102,
-                        "endOffset": 1277
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1281,
-                    "endColumn": 110,
-                    "endOffset": 1387
-                },
-                "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1282,
-                        "endColumn": 110,
-                        "endOffset": 1388
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1392,
-                    "endColumn": 106,
-                    "endOffset": 1494
-                },
-                "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1393,
-                        "endColumn": 106,
-                        "endOffset": 1495
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1499,
-                    "endColumn": 106,
-                    "endOffset": 1601
-                },
-                "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1500,
-                        "endColumn": 106,
-                        "endOffset": 1602
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1606,
-                    "endColumn": 121,
-                    "endOffset": 1723
-                },
-                "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1607,
-                        "endColumn": 121,
-                        "endOffset": 1724
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
         "map": [
             {
@@ -568,6 +278,296 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1607,
+                        "endColumn": 121,
+                        "endOffset": 1724
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 110,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 110,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 107,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 107,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endColumn": 122,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 122,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 114,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 114,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 110,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 110,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 86,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 86,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 115,
+                    "endOffset": 821
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 115,
+                        "endOffset": 822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 826,
+                    "endColumn": 129,
+                    "endOffset": 951
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 827,
+                        "endColumn": 129,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 956,
+                    "endColumn": 109,
+                    "endOffset": 1061
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 109,
+                        "endOffset": 1062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1066,
+                    "endColumn": 111,
+                    "endOffset": 1173
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1067,
+                        "endColumn": 111,
+                        "endOffset": 1174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1178,
+                    "endColumn": 102,
+                    "endOffset": 1276
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1179,
+                        "endColumn": 102,
+                        "endOffset": 1277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1281,
+                    "endColumn": 110,
+                    "endOffset": 1387
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1282,
+                        "endColumn": 110,
+                        "endOffset": 1388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1392,
+                    "endColumn": 106,
+                    "endOffset": 1494
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1393,
+                        "endColumn": 106,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1499,
+                    "endColumn": 106,
+                    "endOffset": 1601
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endColumn": 106,
+                        "endOffset": 1602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1606,
+                    "endColumn": 121,
+                    "endOffset": 1723
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -870,6 +870,296 @@
         ]
     },
     {
+        "outputFile": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 110,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 110,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 107,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 107,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endColumn": 122,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 122,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 114,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 114,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 110,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 110,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 86,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 86,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 115,
+                    "endOffset": 821
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 115,
+                        "endOffset": 822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 826,
+                    "endColumn": 129,
+                    "endOffset": 951
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 827,
+                        "endColumn": 129,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 956,
+                    "endColumn": 109,
+                    "endOffset": 1061
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 109,
+                        "endOffset": 1062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1066,
+                    "endColumn": 111,
+                    "endOffset": 1173
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1067,
+                        "endColumn": 111,
+                        "endOffset": 1174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1178,
+                    "endColumn": 102,
+                    "endOffset": 1276
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1179,
+                        "endColumn": 102,
+                        "endOffset": 1277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1281,
+                    "endColumn": 110,
+                    "endOffset": 1387
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1282,
+                        "endColumn": 110,
+                        "endOffset": 1388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1392,
+                    "endColumn": 106,
+                    "endOffset": 1494
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1393,
+                        "endColumn": 106,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1499,
+                    "endColumn": 106,
+                    "endOffset": 1601
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endColumn": 106,
+                        "endOffset": 1602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1606,
+                    "endColumn": 121,
+                    "endOffset": 1723
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1607,
+                        "endColumn": 121,
+                        "endOffset": 1724
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
         "map": [
             {
@@ -1148,296 +1438,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1607,
-                        "endColumn": 121,
-                        "endOffset": 1724
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 110,
-                    "endOffset": 161
-                },
-                "from": {
-                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 56,
-                        "endColumn": 110,
-                        "endOffset": 162
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 166,
-                    "endColumn": 107,
-                    "endOffset": 269
-                },
-                "from": {
-                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 167,
-                        "endColumn": 107,
-                        "endOffset": 270
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 274,
-                    "endColumn": 122,
-                    "endOffset": 392
-                },
-                "from": {
-                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 275,
-                        "endColumn": 122,
-                        "endOffset": 393
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 397,
-                    "endColumn": 114,
-                    "endOffset": 507
-                },
-                "from": {
-                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 398,
-                        "endColumn": 114,
-                        "endOffset": 508
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 512,
-                    "endColumn": 110,
-                    "endOffset": 618
-                },
-                "from": {
-                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 513,
-                        "endColumn": 110,
-                        "endOffset": 619
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 623,
-                    "endColumn": 86,
-                    "endOffset": 705
-                },
-                "from": {
-                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 624,
-                        "endColumn": 86,
-                        "endOffset": 706
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 710,
-                    "endColumn": 115,
-                    "endOffset": 821
-                },
-                "from": {
-                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 711,
-                        "endColumn": 115,
-                        "endOffset": 822
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 826,
-                    "endColumn": 129,
-                    "endOffset": 951
-                },
-                "from": {
-                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 827,
-                        "endColumn": 129,
-                        "endOffset": 952
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 956,
-                    "endColumn": 109,
-                    "endOffset": 1061
-                },
-                "from": {
-                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 957,
-                        "endColumn": 109,
-                        "endOffset": 1062
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1066,
-                    "endColumn": 111,
-                    "endOffset": 1173
-                },
-                "from": {
-                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1067,
-                        "endColumn": 111,
-                        "endOffset": 1174
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1178,
-                    "endColumn": 102,
-                    "endOffset": 1276
-                },
-                "from": {
-                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1179,
-                        "endColumn": 102,
-                        "endOffset": 1277
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1281,
-                    "endColumn": 110,
-                    "endOffset": 1387
-                },
-                "from": {
-                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1282,
-                        "endColumn": 110,
-                        "endOffset": 1388
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1392,
-                    "endColumn": 106,
-                    "endOffset": 1494
-                },
-                "from": {
-                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1393,
-                        "endColumn": 106,
-                        "endOffset": 1495
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1499,
-                    "endColumn": 106,
-                    "endOffset": 1601
-                },
-                "from": {
-                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1500,
-                        "endColumn": 106,
-                        "endOffset": 1602
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1606,
-                    "endColumn": 121,
-                    "endOffset": 1723
-                },
-                "from": {
-                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1740,7 +1740,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
+        "outputFile": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
         "map": [
             {
                 "to": {
@@ -1751,7 +1751,7 @@
                     "endOffset": 161
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1770,7 +1770,7 @@
                     "endOffset": 269
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1789,7 +1789,7 @@
                     "endOffset": 392
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1808,7 +1808,7 @@
                     "endOffset": 507
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1827,7 +1827,7 @@
                     "endOffset": 618
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1846,7 +1846,7 @@
                     "endOffset": 705
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1865,7 +1865,7 @@
                     "endOffset": 821
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1884,7 +1884,7 @@
                     "endOffset": 951
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1903,7 +1903,7 @@
                     "endOffset": 1061
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1922,7 +1922,7 @@
                     "endOffset": 1173
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1941,7 +1941,7 @@
                     "endOffset": 1276
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1960,7 +1960,7 @@
                     "endOffset": 1387
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1979,7 +1979,7 @@
                     "endOffset": 1494
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1998,7 +1998,7 @@
                     "endOffset": 1601
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -2017,7 +2017,7 @@
                     "endOffset": 1723
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -2308,6 +2308,296 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1607,
+                        "endColumn": 121,
+                        "endOffset": 1724
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 110,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 110,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 107,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 107,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endColumn": 122,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 122,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 114,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 114,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 110,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 110,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 86,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 86,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 115,
+                    "endOffset": 821
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 115,
+                        "endOffset": 822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 826,
+                    "endColumn": 129,
+                    "endOffset": 951
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 827,
+                        "endColumn": 129,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 956,
+                    "endColumn": 109,
+                    "endOffset": 1061
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 109,
+                        "endOffset": 1062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1066,
+                    "endColumn": 111,
+                    "endOffset": 1173
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1067,
+                        "endColumn": 111,
+                        "endOffset": 1174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1178,
+                    "endColumn": 102,
+                    "endOffset": 1276
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1179,
+                        "endColumn": 102,
+                        "endOffset": 1277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1281,
+                    "endColumn": 110,
+                    "endOffset": 1387
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1282,
+                        "endColumn": 110,
+                        "endOffset": 1388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1392,
+                    "endColumn": 106,
+                    "endOffset": 1494
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1393,
+                        "endColumn": 106,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1499,
+                    "endColumn": 106,
+                    "endOffset": 1601
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endColumn": 106,
+                        "endOffset": 1602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1606,
+                    "endColumn": 121,
+                    "endOffset": 1723
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fr-rCA\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,

@@ -1,5 +1,143 @@
 [
     {
+        "outputFile": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 61,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 71,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 69,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 69,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 69,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endColumn": 63,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 63,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 70,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 70,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endColumn": 67,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Documents\\GitHub\\NuevosParadigmasIteracion\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 67,
+                        "endOffset": 529
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
         "map": [
             {
@@ -414,7 +552,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "outputFile": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
         "map": [
             {
                 "to": {
@@ -425,7 +563,7 @@
                     "endOffset": 112
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -444,7 +582,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -463,7 +601,7 @@
                     "endOffset": 254
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -482,7 +620,7 @@
                     "endOffset": 324
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -501,7 +639,7 @@
                     "endOffset": 388
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -520,7 +658,7 @@
                     "endOffset": 459
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -539,7 +677,7 @@
                     "endOffset": 527
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -690,7 +828,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "outputFile": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
         "map": [
             {
                 "to": {
@@ -701,7 +839,7 @@
                     "endOffset": 112
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -720,7 +858,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -739,7 +877,7 @@
                     "endOffset": 254
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -758,7 +896,7 @@
                     "endOffset": 324
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -777,7 +915,7 @@
                     "endOffset": 388
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -796,7 +934,7 @@
                     "endOffset": 459
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -815,7 +953,7 @@
                     "endOffset": 527
                 },
                 "from": {
-                    "file": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
