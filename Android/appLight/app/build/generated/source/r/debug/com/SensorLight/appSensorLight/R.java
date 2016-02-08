@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.PuntoMovimientoSonido.appmovimientosonido;
+package com.SensorLight.appSensorLight;
 
 public final class R {
     public static final class anim {
@@ -1342,7 +1342,6 @@ containing a value of this type.
         public static final int ifRoom=0x7f0b0018;
         public static final int image=0x7f0b0023;
         public static final int imageStar=0x7f0b0041;
-        public static final int imageView=0x7f0b0044;
         public static final int listMode=0x7f0b0009;
         public static final int list_item=0x7f0b0025;
         public static final int middle=0x7f0b0015;

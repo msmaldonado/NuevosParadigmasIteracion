@@ -1,7 +1,7 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-package com.PuntoMovimientoSonido.appmovimientosonido;
+package com.SensorLight.appSensorLight;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");

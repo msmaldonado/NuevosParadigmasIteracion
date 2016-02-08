@@ -1,6 +1,6 @@
 
 
-package com.PuntoMovimientoSonido.appmovimientosonido;
+package com.SensorLight.appSensorLight;
 
 import android.app.Activity;
 import android.content.Context;

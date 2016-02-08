@@ -27,11 +27,6 @@
         android:textColor="#ffffff"
         android:backgroundTint="#551a1a" />
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/bombilla"
-        android:id="@+id/imageView"
-        android:layout_gravity="center_horizontal" />
+
 
 </LinearLayout>

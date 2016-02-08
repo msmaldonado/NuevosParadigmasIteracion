@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.PuntoMovimientoSonido.appmovimientosonido.MainActivity"
+            android:name="com.SensorLight.appSensorLight.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,7 +23,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.PuntoMovimientoSonido.appmovimientosonido.SensorLightActivity"
+            android:name="com.SensorLight.appSensorLight.SensorLightActivity"
             android:label="@string/title_activity_movement_sound" >
         </activity>
     </application>
