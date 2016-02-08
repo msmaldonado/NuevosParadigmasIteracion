@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    tools:context=".MovementSoundActivity"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/action_result"
+        android:layout_width="305dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="30sp"
+        android:textColor="#ff6600"
+        android:layout_margin="150dp"
+        android:layout_weight="0.18" />
+
+
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">appSensorLight</string>
+    <string name="title_activity_movement_sound">SensorLight</string>
+	<string name="welcome">SensorLight</string>
+	<string name="button_start">Inicie SensorLight</string>
+	<string name="app_description">Variar la intensidad de luz </string>
+
+</resources>

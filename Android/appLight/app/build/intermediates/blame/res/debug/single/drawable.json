@@ -1,0 +1,530 @@
+[
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo.png",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\src\\main\\res\\drawable\\fondo.png"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo3.png",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\src\\main\\res\\drawable\\fondo3.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo1.png",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\src\\main\\res\\drawable\\fondo1.png"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bombilla.png",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\src\\main\\res\\drawable\\bombilla.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sun.png",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\src\\main\\res\\drawable\\sun.png"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo2.png",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\src\\main\\res\\drawable\\fondo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo.png",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\src\\main\\res\\drawable\\fondo.png"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sun.png",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\src\\main\\res\\drawable\\sun.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo4.png",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\src\\main\\res\\drawable\\fondo4.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo4.png",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\src\\main\\res\\drawable\\fondo4.png"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bombilla.png",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\src\\main\\res\\drawable\\bombilla.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Asolisi\\Desktop\\MovimientoSonido\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo2.png",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\src\\main\\res\\drawable\\fondo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo1.png",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\src\\main\\res\\drawable\\fondo1.png"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo3.png",
+        "source": "C:\\Users\\Migue\\Desktop\\Android\\appLight\\app\\src\\main\\res\\drawable\\fondo3.png"
+    },
+    {
+        "merged": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Asolisi\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appLight\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    }
+]

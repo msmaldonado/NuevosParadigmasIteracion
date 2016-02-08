@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">appBrujulaVoz</string>
+    <string name="norte">Norte</string>
+    <string name="sur">Sur</string>
+    <string name="este">E\ns\nt\ne</string>
+    <string name="oeste">O\ne\ns\nt\ne</string>
+    <string name="Distance">Distance</string>
+    <string name="ArrowImageDesc">Navigation Arrow</string>
+    <string name="button_start">Inicie BrujulaVoz</string>
+    <string name="welcome">BrujulaVoz</string>
+    <string name="button_speak">Iniciar reconocimiento de voz.</string>
+    <string name="button_speak_again">Reconocimiento de voz de nuevo.</string>
+    <string name="button_navigation">Comenzar navegación.</string>
+    <string name="description">Funcionamiento:\nIndique el punto cardinal que desée y una tolerancia(número entero).La aplicación le indicará cuándo está en la orientación correcta.</string>
+    <string name="voice_description">Funcionamiento:\nComience reconocimiento de voz y diga el punto cardinal que desée junto con la tolerancia(número entero).</string>
+    <string name="start_naveg"></string>
+    <string name="result">Estas apuntando en la direccion correcta.</string>
+
+</resources>

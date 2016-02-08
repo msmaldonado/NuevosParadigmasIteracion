@@ -1,0 +1,3019 @@
+[
+    {
+        "outputFile": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 59,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 45,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 50,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 66,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 71,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 78,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 62,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 607,
+                    "endColumn": 43,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endColumn": 39,
+                    "endOffset": 686
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 691,
+                    "endColumn": 47,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 76,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 76,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 35,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 216,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endColumn": 46,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1116,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1403
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1408,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1563
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appGPSVoz\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 59,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 321,
+                        "endColumn": 59,
+                        "endOffset": 376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 45,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 45,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 50,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 66,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endColumn": 66,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 71,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 71,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 78,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 559,
+                        "endColumn": 78,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 58,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 381,
+                        "endColumn": 58,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 190,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 190,
+                        "endOffset": 891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 43,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 43,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 39,
+                    "endOffset": 873
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 39,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 878,
+                    "endColumn": 47,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 47,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 76,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1106,
+                        "endColumn": 76,
+                        "endOffset": 1178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 32,
+                    "endOffset": 1031
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1065,
+                        "endColumn": 40,
+                        "endOffset": 1101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1036,
+                    "endColumn": 35,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 35,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 168,
+                    "endOffset": 1236
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 896,
+                        "endColumn": 168,
+                        "endOffset": 1060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1241,
+                    "endColumn": 46,
+                    "endOffset": 1283
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 46,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1288,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1575
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1580,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1735
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 666
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 59,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 59,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 45,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 45,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 50,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 50,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 66,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 656,
+                        "endColumn": 66,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 71,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 71,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 78,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 576,
+                        "endColumn": 78,
+                        "endOffset": 650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 62,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 62,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 607,
+                    "endColumn": 43,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 43,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endColumn": 39,
+                    "endOffset": 686
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 39,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 691,
+                    "endColumn": 47,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 47,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 76,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 76,
+                        "endOffset": 1014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 35,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 35,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 216,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endColumn": 216,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endColumn": 46,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 46,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1116,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1403
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1408,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1563
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\Github\\NPI\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 683
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 59,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 321,
+                        "endColumn": 59,
+                        "endOffset": 376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 45,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 45,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 50,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 66,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 66,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 71,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 71,
+                        "endOffset": 558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 78,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 563,
+                        "endColumn": 78,
+                        "endOffset": 637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 62,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 381,
+                        "endColumn": 62,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 607,
+                    "endColumn": 43,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 43,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endColumn": 39,
+                    "endOffset": 686
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 39,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 691,
+                    "endColumn": 47,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 47,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 76,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 76,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 35,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 35,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 216,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 216,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endColumn": 46,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 444,
+                        "endColumn": 46,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1116,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1403
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1408,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1563
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 666
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 59,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 321,
+                        "endColumn": 59,
+                        "endOffset": 376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 45,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 45,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 50,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 66,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 66,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 71,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 71,
+                        "endOffset": 558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 78,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 563,
+                        "endColumn": 78,
+                        "endOffset": 637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 62,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 381,
+                        "endColumn": 62,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 607,
+                    "endColumn": 43,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 43,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endColumn": 39,
+                    "endOffset": 686
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 39,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 691,
+                    "endColumn": 47,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 47,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 76,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 76,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 35,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 35,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 216,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 216,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endColumn": 46,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 444,
+                        "endColumn": 46,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1116,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1403
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1408,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1563
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Dropbox\\LPB\\5Curso\\1Cuatrimestre\\NuevosParadigmasDeInteraccion\\Practicas_Android\\FINALES\\appBrujulaVoz\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 666
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 59,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 321,
+                        "endColumn": 59,
+                        "endOffset": 376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 45,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 45,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 50,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 66,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 66,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 71,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 71,
+                        "endOffset": 558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 78,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 563,
+                        "endColumn": 78,
+                        "endOffset": 637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 62,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 381,
+                        "endColumn": 62,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 607,
+                    "endColumn": 43,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 43,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endColumn": 39,
+                    "endOffset": 686
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 39,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 691,
+                    "endColumn": 47,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 47,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 76,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 76,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 35,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 35,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 216,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 216,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endColumn": 46,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 444,
+                        "endColumn": 46,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1116,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1403
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1408,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1563
+                },
+                "from": {
+                    "file": "C:\\Users\\Asolisi\\Desktop\\appBrujulaVoz\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 666
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 59,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 59,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 45,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 45,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 50,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 50,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 66,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 656,
+                        "endColumn": 66,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 71,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 71,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 78,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 576,
+                        "endColumn": 78,
+                        "endOffset": 650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 62,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 62,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 607,
+                    "endColumn": 43,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 43,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endColumn": 39,
+                    "endOffset": 686
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 39,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 691,
+                    "endColumn": 47,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 47,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 76,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 76,
+                        "endOffset": 1014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 35,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 35,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 216,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endColumn": 216,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endColumn": 46,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 46,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1116,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1403
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1408,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1563
+                },
+                "from": {
+                    "file": "C:\\Users\\Juan Velasco\\Documents\\GitHub\\Kinect\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 683
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 59,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 321,
+                        "endColumn": 59,
+                        "endOffset": 376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 45,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 45,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 50,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 66,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endColumn": 66,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 71,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 71,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 78,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 559,
+                        "endColumn": 78,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 58,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 381,
+                        "endColumn": 58,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 190,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 190,
+                        "endOffset": 891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 43,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 43,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 39,
+                    "endOffset": 873
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 39,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 878,
+                    "endColumn": 47,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 47,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 76,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1106,
+                        "endColumn": 76,
+                        "endOffset": 1178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 32,
+                    "endOffset": 1031
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1065,
+                        "endColumn": 40,
+                        "endOffset": 1101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1036,
+                    "endColumn": 35,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 35,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 168,
+                    "endOffset": 1236
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 896,
+                        "endColumn": 168,
+                        "endOffset": 1060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1241,
+                    "endColumn": 46,
+                    "endOffset": 1283
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 46,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1288,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1575
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1580,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1735
+                },
+                "from": {
+                    "file": "C:\\Users\\Migue\\Desktop\\nuestras NPI\\appBrujulaVoz\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 666
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 59,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 45,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 50,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 66,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 71,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 78,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 58,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 190,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 43,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 39,
+                    "endOffset": 873
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 878,
+                    "endColumn": 47,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 76,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 32,
+                    "endOffset": 1031
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1065,
+                        "endColumn": 40,
+                        "endOffset": 1101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1036,
+                    "endColumn": 35,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 168,
+                    "endOffset": 1236
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1241,
+                    "endColumn": 46,
+                    "endOffset": 1283
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1288,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1575
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1580,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1735
+                },
+                "from": {
+                    "file": "C:\\Users\\Cris\\Desktop\\NPI-master\\Android\\appBrujulaVoz\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

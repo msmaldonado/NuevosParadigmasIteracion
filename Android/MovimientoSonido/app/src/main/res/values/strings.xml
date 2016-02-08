@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">appMovimientoSonido</string>
+    <string name="title_activity_movement_sound">MovimientoSonido</string>
+	<string name="welcome">MovimientoSonido</string>
+	<string name="button_start">Inicie MovimientoSonido.</string>
+	<string name="description">Funcionamiento:\nMueva el dispositivo enérgicamente de abajo a arriba para reproducir el sonido.</string>
+	<string name="result">Movimiento realizado correctamente y sonido reproducido.</string>
+	<string name="app_description">Explicación: Agitar el dispositivo hacia la izquierda y seguido a la derecha.</string>
+	<string name="playing_sound">Se está reproduciendo el sonido.</string>
+	
+</resources>
