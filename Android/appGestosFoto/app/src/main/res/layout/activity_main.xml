@@ -11,7 +11,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Crear gesto"
+        android:text="Crear patron"
         android:id="@+id/botonCrearGesto"
         android:layout_above="@+id/space"
         android:layout_centerHorizontal="true"
@@ -41,12 +41,13 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Introducir gesto"
+        android:text="Introducir patron"
         android:id="@+id/botonIntroducirGesto"
         android:layout_below="@+id/space"
         android:layout_centerHorizontal="true"
         android:layout_gravity="center_horizontal"
         android:backgroundTint="#652207"
+        android:enabled="false"
         android:textColor="#ffffff"
         android:layout_margin="30dp" />
 </LinearLayout>

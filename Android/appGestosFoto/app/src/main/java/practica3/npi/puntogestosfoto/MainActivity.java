@@ -14,6 +14,7 @@ import haibison.android.lockpattern.utils.AlpSettings;
 public class MainActivity extends Activity {
     private static final int CREAR_PATRON = 1;
     private static final int INTRODUCIR_PATRON = 2;
+    private Button gestorButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,6 +22,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        gestorButton = (Button) findViewById(R.id.botonIntroducirGesto);
         // Guardardamos el ultimo patrón creado
         AlpSettings.Security.setAutoSavePattern(this, true);
 
@@ -33,8 +35,11 @@ public class MainActivity extends Activity {
                 LockPatternActivity.IntentBuilder
                         .newPatternCreator(MainActivity.this)
                         .startForResult(MainActivity.this, CREAR_PATRON);
+
+                gestorButton.setEnabled(true);
             }
         });
+
 
         // Al hacer click en el boton, tendremos que confirmar el patron
         Button botonIntroducirGesto = (Button) findViewById(R.id.botonIntroducirGesto);
