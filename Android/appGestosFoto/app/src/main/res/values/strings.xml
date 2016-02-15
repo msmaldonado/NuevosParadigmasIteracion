@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GestosFoto</string>
+    <string name="description">Funcionamiento:\nDiseñe un patrón de desbloqueo. Confírmelo.\nUse ese patrón de desbloqueo para lanzar la cámara y hacer una foto tras pasar 3segundos.</string>
+
+</resources>

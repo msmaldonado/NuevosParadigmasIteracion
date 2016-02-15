@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    tools:context="practica3.npi.puntogestosfoto.MainActivity"
+    android:weightSum="1">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Crear gesto"
+        android:id="@+id/botonCrearGesto"
+        android:layout_above="@+id/space"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="20dp"
+        android:backgroundTint="#652207"
+        android:textColor="#ffffff"
+        android:layout_gravity="center_horizontal" />
+
+    <Space
+        android:layout_width="20px"
+        android:layout_height="20px"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/space" />
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:text="@string/description"
+        android:textColor="#652207"
+        android:textSize="20sp"
+        android:layout_margin="30dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Introducir gesto"
+        android:id="@+id/botonIntroducirGesto"
+        android:layout_below="@+id/space"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="#652207"
+        android:textColor="#ffffff"
+        android:layout_margin="30dp" />
+</LinearLayout>
